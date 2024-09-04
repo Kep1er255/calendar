@@ -17,7 +17,7 @@
 
 bash
 コードをコピーする
-git clone https://github.com/あなたのユーザー名/ds-style-calendar.git
+git clone https://github.com/Ruigon/calendar.git
 2. ファイル構成
 プロジェクトは以下のような構成になっています。
 
